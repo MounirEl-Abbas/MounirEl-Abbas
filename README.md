@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MounirEl-Abbas
 - 👀 I’m interested in Front-End Web developement.
-- 🌱 I’m currently learning HTML, CSS, and JavaScript.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React.
 - 💞️ I’m looking to collaborate on - Not yet I don't want to ruin anyone's work :p
 - 📫 How to reach me : eamounir1@gmail.com :)
 
